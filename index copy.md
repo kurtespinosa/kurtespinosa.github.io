@@ -4,7 +4,7 @@ layout: default
 
 <div class="lead pretty-links">
 
-  Hi! My name is Kurt Espinosa(about/) and I am a PhD student at the <a href="http://www.nactem.ac.uk">National Centre for Text Mining</a> at the University of Manchester. My supervisors are <a href="http://www.nactem.ac.uk/staff/sophia.ananiadou/">Sophia Ananiadou</a> and <a href="http://personalpages.manchester.ac.uk/staff/riza.batista/default.htm"> Riza Batista-Navarro</a>.
+  Hi! this is just a sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
 
   This could also be the good place to say were you are coming from, what you [do for a living](research/) and maybe what you are [interested in](projects/). You might also be [writing](blog/) about stuff.
 
