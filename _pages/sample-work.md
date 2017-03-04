@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project
-permalink: work/sample-work/
+permalink: research/sample-work/
 subtitle: Sample work
 ---
 
