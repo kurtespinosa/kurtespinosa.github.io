@@ -12,7 +12,7 @@ baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: brevisiunius@gmail.com
+email: kurtjunshean.espinosa@postgrad.manchester.ac.uk
 author: Kurt Espinosa
 twitter_username: brevis_iunius
 github_username: kurtespinosa
