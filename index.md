@@ -4,9 +4,9 @@ layout: default
 
 <div class="lead pretty-links">
 
-  Hi! My name is Kurt Espinosa(about/) and I am a PhD student at the <a href="http://www.nactem.ac.uk">National Centre for Text Mining</a> at the University of Manchester. My supervisors are <a href="http://www.nactem.ac.uk/staff/sophia.ananiadou/">Sophia Ananiadou</a> and <a href="http://personalpages.manchester.ac.uk/staff/riza.batista/default.htm"> Riza Batista-Navarro</a>.
+  Hi! My name is [Kurt Espinosa](about/) and I am a PhD student at the <a href="http://www.nactem.ac.uk">National Centre for Text Mining</a> at the <a href="http://www.cs.manchester.ac.uk">University of Manchester</a>. My supervisors are <a href="http://www.nactem.ac.uk/staff/sophia.ananiadou/">Sophia Ananiadou</a> and <a href="http://personalpages.manchester.ac.uk/staff/riza.batista/default.htm"> Riza Batista-Navarro</a>.
 
-  This could also be the good place to say were you are coming from, what you [do for a living](research/) and maybe what you are [interested in](projects/). You might also be [writing](blog/) about stuff.
+  I dream that computers will one day be able to read text and capture what it means just as humans do. For that to happen, computers must be able to represent concepts, which is the core of my [research](research/). In my spare time, I immerse myself in small but fun [projects](projects/) or [write](blog/) about interesting topics.
 
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
+  If you have any questions about my research or projects, feel free to contact me. 
 </div>
