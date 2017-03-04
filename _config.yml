@@ -23,21 +23,21 @@ google_analytics: 'UA-XXXXXXXX-X'
 
 # Pagination settings
 paginate: 5                           # number of posts to show per page
-paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf as is
+paginate_path: "/blog/page:num/"  # link scheme for articles, should be letf as is
 
 # Navigation settings
 # Used to define the navigation menu items
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
-  - title: Articles
-    url: /articles/
+  - title: Blog
+    url: /blog/
     desc: Stuffs I write about
   - title: Projects
     url: /projects/
     desc: Stuffs I like to do
-  - title: Work
-    url: /work/
-    desc: Stuffs I hate to do
+  - title: Research
+    url: /research/
+    desc: Stuffs I seriously do
   - title: About
     url: /about/
     desc: Learn about me
