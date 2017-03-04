@@ -8,5 +8,5 @@ layout: default
 
   I dream that computers will one day be able to read and understand text just like you do. I believe that will be possible if computers can learn to represent concepts, which is the core of my [research](research/). 
 
-  In my spare time, I enjoy creating small and fun [projects](projects/) or [writing](blog/) about wild and fascinating ideas. Feel free to contact me.
+  In my spare time, I enjoy creating small and fun [projects](projects/) or [writing](blog/) about ideas that fascinate me. If you share any of my interests, feel free to contact me.
 </div>
