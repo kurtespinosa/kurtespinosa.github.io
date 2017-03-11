@@ -21,9 +21,11 @@ What is a concept? How do we represent it? How can we teach the computers to lea
 
 ---
 
-## 2016 September - December: Joined the COLING Twitter NER Shared-Task - won 3rd place!
+## Activities
+
+<div class="lead lead-about">2016 September - December: Joined the COLING Twitter NER Shared-Task - won 3rd place!
+</div>
 
 The [task](http://noisy-text.github.io/2016/index.html) consists of identification of named-entities in a tweet and classification of its entity type (e.g. location, person, organisation, etc). 
 
 </div>
-
