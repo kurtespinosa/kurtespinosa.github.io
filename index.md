@@ -7,5 +7,5 @@ layout: default
 
   I dream that one day computers will be able to read and understand text just like we do. I believe that is possible only if computers can learn to represent concepts, which is primarily the core of my [research](research/). 
 
-  In my spare time, I enjoy creating small and fun [projects](projects/) or [writing](blog/) about ideas that fascinate me. If you share any of my interests, feel free to contact me.
+  In my spare time, I enjoy creating small and fun [projects](projects/) or [writing](blog/) about ideas that fascinate me. If you share any of my interests, feel free to <a href=mailto:kurtjunshean.espinosa@postgrad.manchester.ac.uk>contact me</a>.
 </div>
