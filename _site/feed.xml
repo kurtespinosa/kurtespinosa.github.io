@@ -10,58 +10,46 @@
         <title>What was the COLING for me?</title>
         <description>&lt;p&gt;It was a terribly good experience! Understanding sentences like that remains one of the challenges in Natural Language Processing (NLP) in general based on my impression after attending the Computational Linguistics (COLING) conference held at Osaka, Japan from Dec 10-16, 2016. In this post, I aim to summarise my learning experiences in COLING.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;My proposed topic (semantic similarity) is a core problem in many high-level semantic applications such as question answering, summarisation, entailment, translation, etc. In fact, my observation is confirmed by &lt;a href=&quot;https://levyomer.wordpress.com/bio/&quot;&gt;Omer Levy&lt;/a&gt; (University of Washington and Bar-Ilan University, Israel) whom I also met during the conference.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I also had a short discussion with  &lt;a href=&quot;https://levyomer.wordpress.com/bio/&quot;&gt;Omer Levy&lt;/a&gt;, &lt;a href=&quot;http://pontus.stenetorp.se/&quot;&gt;Pontus Stenetorp&lt;/a&gt; (UCL) and &lt;a href=&quot;http://www.eecs.qmul.ac.uk/people/view/45712/dimitrios-kartsaklis&quot;&gt;Dimitrios Kartsaklis&lt;/a&gt; (Queen Mary University of London) among others about sentence compositionally on what they think about it. They know the problem well and just simply responded what would be an alternative. I proposed that it should stop at semantic units (which could be at the sentence level) and from there do the alignments. I shared this intuition with Omer and Dimitrios at least in my impression.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I also discovered interesting and intuitive deep learning architectures for capturing language intuitions. I’m listing down below the especially interesting ones for me:&lt;/p&gt;
+&lt;p&gt;1.My proposed topic (semantic similarity) is a core problem in many high-level semantic applications such as question answering, summarisation, entailment, translation, etc. In fact, my observation is confirmed by &lt;a href=&quot;https://levyomer.wordpress.com/bio/&quot;&gt;Omer Levy&lt;/a&gt; (University of Washington and Bar-Ilan University, Israel) whom I also met during the conference.&lt;/p&gt;
 
-    &lt;ul&gt;
-      &lt;li&gt;Using attention to dynamically decide between character or word embeddings on the input representation by &lt;a href=&quot;http://www.marekrei.com/&quot;&gt;Marek Rei&lt;/a&gt; (University of Cambridge). &lt;a href=&quot;https://arxiv.org/abs/1611.04361&quot;&gt;Attending to Characters in Neural Sequence Labeling Models&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Using orthographic sequence representation to capture noise in twitter by &lt;a href=&quot;http://www.dcs.gla.ac.uk/~nutli/&quot;&gt;Nut Limsopatham&lt;/a&gt; (University of Cambridge). &lt;a href=&quot;http://noisy-text.github.io/2016/pdf/WNUT20.pdf&quot;&gt;Bidirectional LSTM for Named Entity Recognition in Twitter Messages&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Lexical Decomposition and Composition by &lt;a href=&quot;http://researcher.watson.ibm.com/researcher/view.php?person=us-zhigwang&quot;&gt;Zhiguo Wang&lt;/a&gt; (IBM New York). &lt;a href=&quot;https://arxiv.org/abs/1602.07019&quot;&gt;Sentence Similarity Learning by Lexical Decomposition and Composition&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Re-reading of sentence according to memory of another sentence for better understanding by &lt;a href=&quot;http://shalei120.github.io/&quot;&gt;Lei Sha&lt;/a&gt; et al (Peking University). &lt;a href=&quot;http://www.aclweb.org/anthology/C/C16/C16-1270.pdf&quot;&gt;Reading and Thinking: Re-read LSTM Unit for Textual Entailment Recognition&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Alignment with implicit distortion and fertility using attention by Shi Feng et al (University of Maryland College Park). &lt;a href=&quot;http://www.aclweb.org/anthology/C/C16/C16-1290.pdf&quot;&gt;Improving Attention Modeling with Implicit Distortion and Fertility for Machine Translation&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Applying attention to tree structures by &lt;a href=&quot;http://kaizhao.me/&quot;&gt;Kai Zhao&lt;/a&gt; (Oregon State University). &lt;a href=&quot;http://kaizhao.me/files/structured-attention.pdf&quot;&gt;Textual Entailment with Structured Attentions and Composition&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I also found interesting studies that try to capture linguistic notions from humans and behaviour&lt;/p&gt;
+&lt;p&gt;2.I also had a short discussion with  &lt;a href=&quot;https://levyomer.wordpress.com/bio/&quot;&gt;Omer Levy&lt;/a&gt;, &lt;a href=&quot;http://pontus.stenetorp.se/&quot;&gt;Pontus Stenetorp&lt;/a&gt; (UCL) and &lt;a href=&quot;http://www.eecs.qmul.ac.uk/people/view/45712/dimitrios-kartsaklis&quot;&gt;Dimitrios Kartsaklis&lt;/a&gt; (Queen Mary University of London) among others about sentence compositionally on what they think about it. They know the problem well and just simply responded what would be an alternative. I proposed that it should stop at semantic units (which could be at the sentence level) and from there do the alignments. I shared this intuition with Omer and Dimitrios at least in my impression.&lt;/p&gt;
 
-    &lt;ul&gt;
-      &lt;li&gt;Omer Levy on using subtree entailment to extract sentence intersection. &lt;a href=&quot;https://levyomer.files.wordpress.com/2016/12/modeling-extractive-sentence-intersection-via-subtree-entailment-coling-2016.pdf&quot;&gt;Modeling Extractive Sentence Intersection via Subtree Entailment&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.let.rug.nl/~bplank/&quot;&gt;Barbara Plank&lt;/a&gt; (University of Groningen, Netherlands) on modelling syntactic parsing via keystroke dynamics. &lt;a href=&quot;https://arxiv.org/abs/1610.03321&quot;&gt;Keystroke dynamics as signal for shallow syntactic parsing&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Lieke Gelderloos (Tilburg University, Netherlands) on levels of representations of RNN using images and phonemes. &lt;a href=&quot;https://arxiv.org/abs/1610.03342&quot;&gt;From phonemes to images: levels of representation in a recurrent neural model of visually-grounded language learning&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.linguist.univ-paris-diderot.fr/~mcandito/&quot;&gt;Marie Candito&lt;/a&gt; (Université Paris Diderot) used syntactic rules for semantic parsing. &lt;a href=&quot;https://hal.archives-ouvertes.fr/hal-01391678/document&quot;&gt;Deeper syntax for better semantic parsing&lt;/a&gt;. If it is possible to model this using deep neural networks, then it would be great!&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;3.I also discovered interesting and intuitive deep learning architectures for capturing language intuitions. I’m listing down below the especially interesting ones for me:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Using attention to dynamically decide between character or word embeddings on the input representation by [Marek Rei](http://www.marekrei.com/) (University of Cambridge). [Attending to Characters in Neural Sequence Labeling Models](https://arxiv.org/abs/1611.04361)
+- Using orthographic sequence representation to capture noise in twitter by [Nut Limsopatham](http://www.dcs.gla.ac.uk/~nutli/) (University of Cambridge). [Bidirectional LSTM for Named Entity Recognition in Twitter Messages](http://noisy-text.github.io/2016/pdf/WNUT20.pdf)
+- Lexical Decomposition and Composition by [Zhiguo Wang](http://researcher.watson.ibm.com/researcher/view.php?person=us-zhigwang) (IBM New York). [Sentence Similarity Learning by Lexical Decomposition and Composition](https://arxiv.org/abs/1602.07019)
+- Re-reading of sentence according to memory of another sentence for better understanding by [Lei Sha](http://shalei120.github.io/) et al (Peking University). [Reading and Thinking: Re-read LSTM Unit for Textual Entailment Recognition](http://www.aclweb.org/anthology/C/C16/C16-1270.pdf)
+- Alignment with implicit distortion and fertility using attention by Shi Feng et al (University of Maryland College Park). [Improving Attention Modeling with Implicit Distortion and Fertility for Machine Translation](http://www.aclweb.org/anthology/C/C16/C16-1290.pdf)
+- Applying attention to tree structures by [Kai Zhao](http://kaizhao.me/) (Oregon State University). [Textual Entailment with Structured Attentions and Composition](http://kaizhao.me/files/structured-attention.pdf)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;4.I also found interesting studies that try to capture linguistic notions from humans and behaviour&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Omer Levy on using subtree entailment to extract sentence intersection. [Modeling Extractive Sentence Intersection via Subtree Entailment](https://levyomer.files.wordpress.com/2016/12/modeling-extractive-sentence-intersection-via-subtree-entailment-coling-2016.pdf)
+- [Barbara Plank](http://www.let.rug.nl/~bplank/) (University of Groningen, Netherlands) on modelling syntactic parsing via keystroke dynamics. [Keystroke dynamics as signal for shallow syntactic parsing](https://arxiv.org/abs/1610.03321)
+- Lieke Gelderloos (Tilburg University, Netherlands) on levels of representations of RNN using images and phonemes. [From phonemes to images: levels of representation in a recurrent neural model of visually-grounded language learning](https://arxiv.org/abs/1610.03342)
+- [Marie Candito](http://www.linguist.univ-paris-diderot.fr/~mcandito/) (Université Paris Diderot) used syntactic rules for semantic parsing. [Deeper syntax for better semantic parsing](https://hal.archives-ouvertes.fr/hal-01391678/document). If it is possible to model this using deep neural networks, then it would be great! 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Related to this, I was thinking of doing an experiment that simulates alignment. It should simulate aspects of iSTS such as alignment type. Further, timestamp should be noted to indicate the order of importance when doing alignment. 
 In addition, I wonder also if the work of Barbara could be done for speech for the same task of shallow syntactic parsing.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Further, there were some studies focusing more on machine learning.&lt;/p&gt;
+&lt;p&gt;5.Further, there were some studies focusing more on machine learning.&lt;/p&gt;
 
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://martenpostma.com/&quot;&gt;Marten Postma&lt;/a&gt; (Vrije Universiteit Amsterdam, Netherlands) More data does not always result to better performance since most frequently occurring word-sense gets selected. The conclusion is that acquisition of training data must be guided by the task at hand. &lt;a href=&quot;http://www.aclweb.org/anthology/C/C16/C16-1330.pdf&quot;&gt;More is not always better: balancing sense distributions for all-words Word Sense Disambiguation&lt;/a&gt;.&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/s/c/p.schulz/p.schulz.html&quot;&gt;Philip Schulz&lt;/a&gt; (University of Amsterdam) on word alignment using HMM and language model. &lt;a href=&quot;http://wilkeraziz.github.io/papers/coling2016.pdf&quot;&gt;Fast Collocation-Based Bayesian HMM Word Alignment&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Datasets&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- [Marten Postma](https://martenpostma.com/) (Vrije Universiteit Amsterdam, Netherlands) More data does not always result to better performance since most frequently occurring word-sense gets selected. The conclusion is that acquisition of training data must be guided by the task at hand. [More is not always better: balancing sense distributions for all-words Word Sense Disambiguation](http://www.aclweb.org/anthology/C/C16/C16-1330.pdf).
+- [Philip Schulz](http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/s/c/p.schulz/p.schulz.html) (University of Amsterdam) on word alignment using HMM and language model. [Fast Collocation-Based Bayesian HMM Word Alignment](http://wilkeraziz.github.io/papers/coling2016.pdf)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.derczynski.com/sheffield/&quot;&gt;Leon Derczynski&lt;/a&gt; (University of Sheffield, UK). Twitter corpus that is more representative spatially and temporally. &lt;a href=&quot;http://www.derczynski.com/sheffield/papers/btc.pdf&quot;&gt;Broad Twitter Corpus: A Diverse Named Entity Recognition Resource&lt;/a&gt;. The dataset is free and spans 5 years beginning 2009.&lt;/li&gt;
-      &lt;li&gt;Had a short chat with &lt;a href=&quot;http://cental.fltr.ucl.ac.be/team/tfrancois/&quot;&gt;Thomas Francois&lt;/a&gt; (UCL, Belgium) on the possibility of teaching machines like teaching kids to read which is to start from simple sentences and he referred to me a dataset: weekly reader and BBC bitesize. This would be an interesting research.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;6.Datasets&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- [Leon Derczynski](http://www.derczynski.com/sheffield/) (University of Sheffield, UK). Twitter corpus that is more representative spatially and temporally. [Broad Twitter Corpus: A Diverse Named Entity Recognition Resource](http://www.derczynski.com/sheffield/papers/btc.pdf). The dataset is free and spans 5 years beginning 2009.
+- Had a short chat with [Thomas Francois](http://cental.fltr.ucl.ac.be/team/tfrancois/) (UCL, Belgium) on the possibility of teaching machines like teaching kids to read which is to start from simple sentences and he referred to me a dataset: weekly reader and BBC bitesize. This would be an interesting research.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;I also met some fantastic people from industry like the CEO and Co-founder of Chata.ai (based in Calgary, Canada), &lt;a href=&quot;https://www.linkedin.com/in/kelly-cherniwchan-2969426/&quot;&gt;Kelly Cherniwchan&lt;/a&gt;. Imagine a question-answering system that interacts with your database.&lt;/p&gt;
 
