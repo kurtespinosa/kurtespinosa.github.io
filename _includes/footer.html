@@ -1,9 +1,8 @@
 <footer class="site-footer">
 
-  <div class="site-copy">&copy; {{ site.time | date: '%Y' }}<span class="site-author">{{ site.author }}</span></div>
+  <div class="site-copy">&copy; {{ site.time | date: '%Y' }}<span class="site-author">{{ site.author }}</span>
 
-  <div class="site-links">
-    <div class="site-contact">
+  <div class="site-contact">
       <ul>
       <!--
         {% if site.email %}
@@ -18,6 +17,27 @@
         <li><a target="_blank" rel="external" href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
         {% endif %}
       </ul>
+    </div>
+
+  </div>
+
+  <div class="site-links">
+    <div class="site-contact">
+      <ul>
+      <!--
+        {% if site.email %}
+        <li><a href="mailto:{{ site.email }}">Contact</a></li>
+        {% endif %}
+      
+        {% if site.github_username %}
+        <li><a target="_blank" rel="external" href="https://github.com/{{ site.github_username }}">Github</a></li>
+        {% endif %}
+
+        {% if site.twitter_username %}
+        <li><a target="_blank" rel="external" href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
+        {% endif %}
+      </ul>
+      -->
     </div>
 
     <!--<div class="site-source">
