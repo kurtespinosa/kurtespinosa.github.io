@@ -20,11 +20,14 @@ permalink: /about/
 What is a concept? How do we represent it? How can we teach the computers to learn concepts over time? These are some questions I have in my research.
 
 ---
+## Publications
 
+See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=A2ykvNwAAAAJ&view_op=list_works&sortby=pubdate) page.
+
+---
 ## Activities
 
-<div class="lead lead-about">2016 September - December: Joined the COLING Twitter NER Shared-Task - won 3rd place!
-</div>
+<div class="lead lead-about">2016 September: Joined the COLING Twitter NER Shared-Task - won 3rd place!</div>
 
 The [task](http://noisy-text.github.io/2016/index.html) consists of identification of named-entities in a tweet and classification of its entity type (e.g. location, person, organisation, etc). 
 
