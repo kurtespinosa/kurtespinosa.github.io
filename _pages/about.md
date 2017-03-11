@@ -28,9 +28,7 @@ See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=A2ykvNwA
 ---
 ## Activities
 
-2016 September: Joined the COLING Twitter NER Shared-Task - won 3rd place!
-
-
-The [task](http://noisy-text.github.io/2016/index.html) consists of identification of named-entities in a tweet and classification of its entity type (e.g. location, person, organisation, etc). 
+**2016 September: Joined the COLING Twitter NER Shared-Task - won 3rd place!**
+- The [task](http://noisy-text.github.io/2016/index.html) consists of identification of named-entities in a tweet and classification of its entity type (e.g. location, person, organisation, etc). 
 
 </div>
