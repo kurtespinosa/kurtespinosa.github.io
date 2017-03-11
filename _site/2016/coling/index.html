@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+  <!-- Common metas -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>
+  What was the COLING for me? | Home
+  
+  </title>
+
+  <!-- SEO metas -->
+  <meta name="description" content="My experience in attending the COLING conference in Osaka, Japan.">
+  <link rel="canonical" href="http://kurtespinosa.com/2016/coling/">
+  <link rel="alternate" type="application/rss+xml" title="Home" href="http://kurtespinosa.com/feed.xml">
+
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Lora:400,400i,700" rel="stylesheet">
+
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+  <link rel="shortcut icon" href="/assets/img/favicon.ico">
+
+  <!-- CSS files -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+
+</head>
+
+
+  <body>
+
+    <div class="site">
+
+      <header class="site-header">
+
+  <h1 class="site-title">
+    <a href="/" title="Home page"><img class="site-logo" src="/assets/img/me.png"></a>
+  </h1>
+
+  <nav class="site-nav">
+    
+      
+      
+    <a href="/blog/"   title="Stuffs I write about" >Blog</a>
+    
+      
+      
+    <a href="/projects/"   title="Stuffs I like to do" >Projects</a>
+    
+      
+      
+    <a href="/research/"   title="Stuffs I seriously do" >Research</a>
+    
+      
+      
+    <a href="/about/"   title="Learn about me" >About</a>
+    
+  </nav>
+
+</header>
+<!-- site-header -->
+
+
+      <div class="site-content">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">What was the COLING for me?</h1>
+    <time class="post-date" datetime="2016-12-17 00:00:00 +0000">
+    
+    
+    Dec.
+      
+    17th
+    2016
+    </time>
+  </header>
+
+  <div class="post-content pretty-links">
+    <p>It was a terribly good experience! Understanding sentences like that remains one of the challenges in Natural Language Processing (NLP) in general based on my impression after attending the Computational Linguistics (COLING) conference held at Osaka, Japan from Dec 10-16, 2016. In this post, I aim to summarise my learning experiences in COLING.</p>
+
+<ol>
+  <li>
+    <p>My proposed topic (semantic similarity) is a core problem in many high-level semantic applications such as question answering, summarisation, entailment, translation, etc. In fact, my observation is confirmed by <a href="https://levyomer.wordpress.com/bio/">Omer Levy</a> (University of Washington and Bar-Ilan University, Israel) whom I also met during the conference.</p>
+  </li>
+  <li>
+    <p>I also had a short discussion with  <a href="https://levyomer.wordpress.com/bio/">Omer Levy</a>, <a href="http://pontus.stenetorp.se/">Pontus Stenetorp</a> (UCL) and <a href="http://www.eecs.qmul.ac.uk/people/view/45712/dimitrios-kartsaklis">Dimitrios Kartsaklis</a> (Queen Mary University of London) among others about sentence compositionally on what they think about it. They know the problem well and just simply responded what would be an alternative. I proposed that it should stop at semantic units (which could be at the sentence level) and from there do the alignments. I shared this intuition with Omer and Dimitrios at least in my impression.</p>
+  </li>
+  <li>
+    <p>I also discovered interesting and intuitive deep learning architectures for capturing language intuitions. I’m listing down below the especially interesting ones for me:</p>
+
+    <ul>
+      <li>Using attention to dynamically decide between character or word embeddings on the input representation by <a href="http://www.marekrei.com/">Marek Rei</a> (University of Cambridge). <a href="https://arxiv.org/abs/1611.04361">Attending to Characters in Neural Sequence Labeling Models</a></li>
+      <li>Using orthographic sequence representation to capture noise in twitter by <a href="http://www.dcs.gla.ac.uk/~nutli/">Nut Limsopatham</a> (University of Cambridge). <a href="http://noisy-text.github.io/2016/pdf/WNUT20.pdf">Bidirectional LSTM for Named Entity Recognition in Twitter Messages</a></li>
+      <li>Lexical Decomposition and Composition by <a href="http://researcher.watson.ibm.com/researcher/view.php?person=us-zhigwang">Zhiguo Wang</a> (IBM New York). <a href="https://arxiv.org/abs/1602.07019">Sentence Similarity Learning by Lexical Decomposition and Composition</a></li>
+      <li>Re-reading of sentence according to memory of another sentence for better understanding by <a href="http://shalei120.github.io/">Lei Sha</a> et al (Peking University). <a href="http://www.aclweb.org/anthology/C/C16/C16-1270.pdf">Reading and Thinking: Re-read LSTM Unit for Textual Entailment Recognition</a></li>
+      <li>Alignment with implicit distortion and fertility using attention by Shi Feng et al (University of Maryland College Park). <a href="http://www.aclweb.org/anthology/C/C16/C16-1290.pdf">Improving Attention Modeling with Implicit Distortion and Fertility for Machine Translation</a></li>
+      <li>Applying attention to tree structures by <a href="http://kaizhao.me/">Kai Zhao</a> (Oregon State University). <a href="http://kaizhao.me/files/structured-attention.pdf">Textual Entailment with Structured Attentions and Composition</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>I also found interesting studies that try to capture linguistic notions from humans and behaviour</p>
+
+    <ul>
+      <li>Omer Levy on using subtree entailment to extract sentence intersection. <a href="https://levyomer.files.wordpress.com/2016/12/modeling-extractive-sentence-intersection-via-subtree-entailment-coling-2016.pdf">Modeling Extractive Sentence Intersection via Subtree Entailment</a></li>
+      <li><a href="http://www.let.rug.nl/~bplank/">Barbara Plank</a> (University of Groningen, Netherlands) on modelling syntactic parsing via keystroke dynamics. <a href="https://arxiv.org/abs/1610.03321">Keystroke dynamics as signal for shallow syntactic parsing</a></li>
+      <li>Lieke Gelderloos (Tilburg University, Netherlands) on levels of representations of RNN using images and phonemes. <a href="https://arxiv.org/abs/1610.03342">From phonemes to images: levels of representation in a recurrent neural model of visually-grounded language learning</a></li>
+      <li><a href="http://www.linguist.univ-paris-diderot.fr/~mcandito/">Marie Candito</a> (Université Paris Diderot) used syntactic rules for semantic parsing. <a href="https://hal.archives-ouvertes.fr/hal-01391678/document">Deeper syntax for better semantic parsing</a>. If it is possible to model this using deep neural networks, then it would be great!</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Related to this, I was thinking of doing an experiment that simulates alignment. It should simulate aspects of iSTS such as alignment type. Further, timestamp should be noted to indicate the order of importance when doing alignment. 
+In addition, I wonder also if the work of Barbara could be done for speech for the same task of shallow syntactic parsing.</p>
+
+<ol>
+  <li>
+    <p>Further, there were some studies focusing more on machine learning.</p>
+
+    <ul>
+      <li><a href="https://martenpostma.com/">Marten Postma</a> (Vrije Universiteit Amsterdam, Netherlands) More data does not always result to better performance since most frequently occurring word-sense gets selected. The conclusion is that acquisition of training data must be guided by the task at hand. <a href="http://www.aclweb.org/anthology/C/C16/C16-1330.pdf">More is not always better: balancing sense distributions for all-words Word Sense Disambiguation</a>.</li>
+      <li><a href="http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/s/c/p.schulz/p.schulz.html">Philip Schulz</a> (University of Amsterdam) on word alignment using HMM and language model. <a href="http://wilkeraziz.github.io/papers/coling2016.pdf">Fast Collocation-Based Bayesian HMM Word Alignment</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>Datasets</p>
+
+    <ul>
+      <li><a href="http://www.derczynski.com/sheffield/">Leon Derczynski</a> (University of Sheffield, UK). Twitter corpus that is more representative spatially and temporally. <a href="http://www.derczynski.com/sheffield/papers/btc.pdf">Broad Twitter Corpus: A Diverse Named Entity Recognition Resource</a>. The dataset is free and spans 5 years beginning 2009.</li>
+      <li>Had a short chat with <a href="http://cental.fltr.ucl.ac.be/team/tfrancois/">Thomas Francois</a> (UCL, Belgium) on the possibility of teaching machines like teaching kids to read which is to start from simple sentences and he referred to me a dataset: weekly reader and BBC bitesize. This would be an interesting research.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>I also met some fantastic people from industry like the CEO and Co-founder of Chata.ai (based in Calgary, Canada), <a href="https://www.linkedin.com/in/kelly-cherniwchan-2969426/">Kelly Cherniwchan</a>. Imagine a question-answering system that interacts with your database.</p>
+
+<p>Here is the <a href="http://coling2016.anlp.jp/doc/main.pdf">COLING 2016 proceedings</a>.</p>
+
+<p>Lastly, the list of upcoming conferences was announced at the closing event as follows:</p>
+
+<p>EACL 2017. April 3-7, Spain. Deadline passed.</p>
+
+<p>ACL 2017. July 30-Aug 4, Vancouver. Deadline: Feb 6, 2017.</p>
+
+<p>EMNLP 2017. Sep 9-11, Copenhagen. Deadline: April 14, 2017.</p>
+
+<p>COLING 2018. Sta Fe, USA. TBA.</p>
+
+<p>Attending conferences indeed is very expensive but I think it is the most efficient way to get new ideas and to know the state-of-the-art in my field through the face-to-face interaction with the experts themselves in the field.</p>
+
+
+  </div>
+
+  <em>Thank you for scrolling</em> <img src="/assets/img/wink.png" class="emoji left">
+
+</article>
+
+      </div>
+      <!-- site-content -->
+
+      <footer class="site-footer">
+
+  <div class="site-copy">&copy; 2017<span class="site-author">Kurt Espinosa</span>
+
+  <div class="site-contact">
+      <ul>
+      <!--
+        
+        <li><a href="mailto:kurtjunshean.espinosa@postgrad.manchester.ac.uk">Contact</a></li>
+        
+      -->
+        
+        <li><a target="_blank" rel="external" href="https://github.com/kurtespinosa">Github</a></li>
+        
+
+        
+        <li><a target="_blank" rel="external" href="https://twitter.com/brevis_iunius">Twitter</a></li>
+        
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="site-links">
+    <div class="site-contact">
+      <ul>
+      <!--
+        
+        <li><a href="mailto:kurtjunshean.espinosa@postgrad.manchester.ac.uk">Contact</a></li>
+        
+      
+        
+        <li><a target="_blank" rel="external" href="https://github.com/kurtespinosa">Github</a></li>
+        
+
+        
+        <li><a target="_blank" rel="external" href="https://twitter.com/brevis_iunius">Twitter</a></li>
+        
+      </ul>
+      -->
+    </div>
+
+    <!--<div class="site-source">
+      <ul>
+        <li><a target="_blank" href="https://github.com/kurtespinosa/kurtespinosa.github.io">Source</a></li>
+      </ul>
+    </div>-->
+  </div>
+
+</footer>
+<!-- site-footer -->
+
+
+
+<script src="/assets/js/main.js"></script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','/assets/js/analytics.js','ga');
+
+  ga('create', 'UA-XXXXXXXX-X', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+
+    </div>
+
+  </body>
+
+</html>
