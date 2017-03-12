@@ -19,6 +19,8 @@ permalink: /about/
 
 What is a concept? How do we represent it? How can we teach the computers to learn concepts over time? These are some questions I have in my research.
 
+Here is my [CV]().
+
 
 ---
 ## Activities
