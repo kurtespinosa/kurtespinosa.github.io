@@ -26,6 +26,6 @@ Here is my [CV]().
 ## Activities
 
 **2016 September: Joined the COLING Twitter NER Shared-Task - won 3rd place!**
-- The [task](http://noisy-text.github.io/2016/index.html) consists of identification of named-entities in a tweet and classification of its entity type (e.g. location, person, organisation, etc). 
+- The [task](http://noisy-text.github.io/2016/index.html) consists of identification of named-entities in a tweet and classification of its entity type (e.g. location, person, organisation, etc). [[paper](http://www.aclweb.org/anthology/W/W16/W16-39.pdf#page=165)]
 
 </div>
