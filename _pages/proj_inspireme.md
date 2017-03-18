@@ -2,7 +2,7 @@
 layout: page
 title: Project
 permalink: research/proj_inspireme/
-subtitle: Sample work
+subtitle: Recommender System
 ---
 
 ## Inspire Me

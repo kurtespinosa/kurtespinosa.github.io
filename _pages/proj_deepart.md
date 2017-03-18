@@ -2,7 +2,7 @@
 layout: page
 title: Project
 permalink: research/proj_deepart/
-subtitle: Sample work
+subtitle: Art
 ---
 
 ## Artistic style transfer using convolutional neural networks

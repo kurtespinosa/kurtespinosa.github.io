@@ -2,7 +2,7 @@
 layout: page
 title: Project
 permalink: research/proj_poetry/
-subtitle: Sample work
+subtitle: Art
 ---
 
 ## Computer Poetry

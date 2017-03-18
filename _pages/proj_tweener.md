@@ -2,7 +2,7 @@
 layout: page
 title: Project
 permalink: research/proj_tweener/
-subtitle: Sample work
+subtitle: Visualisation
 ---
 
 ## Entity Map
