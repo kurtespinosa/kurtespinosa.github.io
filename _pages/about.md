@@ -8,7 +8,7 @@ permalink: /about/
 
 <div class="pretty-links">
 
-<div class="lead lead-about">My research is about concept representations which cuts across machine learning and linguistics. 
+<div class="lead lead-about">My research interest lies at the intersection of machine learning and natural language processing. I am largely motivated by the challenge of how machines can learn to read and understand textual data.
 </div>
 
 {::nomarkdown} 
@@ -16,9 +16,9 @@ permalink: /about/
     <img src="{{ site.baseurl }}/assets/img/profile.jpg">
 </figure>
 {:/}
-My research interest lies at the intersection of machine learning and natural language processing. I am largely motivated by the challenge of how machines can learn to read and understand textual data. 
+ All the time we use terms (i.e. words or phrases) to illustrate concepts and communicate our ideas. How can we teach the computers to learn the meaning of these terms? Are there algorithms to learn the different terms of the same concept across domains? I propose that the representation process can be done at the lexical, syntactic, and semantic levels. For example, non-standard English and out-of-vocabulary words in social media will be normalised (e.g., “idk”, “dunno” will be converted to “I do not know”). On the other hand, there are different ways of describing a concept depending on the context. For example, someone who is alcoholic may be described differently: in social media as “boozer”, in clinical records as simply “alcoholic”, scientific literature as “suffering alcoholic dependency”. 
 
-What is a concept? How do we represent it? How can we teach the computers to learn concepts over time? These are some specific questions I have in my research. This has many applications in knowledge discovery, question-answering systems, machine translation, sentiment analysis among many others and in as diverse application areas such as medicine, social media, disaster management, education, etc. 
+ I would like to investigate different techniques, combining both levels of representation in order to achieve high accuracy in various domains. In this way, textual data from various resources, e.g., scientific literature, clinical records, social media, can be seamlessly integrated to facilitate knowledge discovery.
 
 Here is my [CV]().
 
