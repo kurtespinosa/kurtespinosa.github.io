@@ -28,7 +28,7 @@ permalink: /about/
 
 ## News
 
-*[Featured](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=4451) in the School of Computer Science for winning **3rd** place in the COLING competition.*
+- [Featured](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=4451) in the School of Computer Science for winning **3rd** place in the COLING competition.
 
 Here is my [CV]().
 </div>
