@@ -26,5 +26,9 @@ permalink: /about/
 **2016 September: Joined the COLING Twitter NER Shared-Task - won 3rd place!**
 - The [task](http://noisy-text.github.io/2016/index.html) consists of identification of named-entities in a tweet and classification of its entity type (e.g. location, person, organisation, etc). [[paper](http://www.aclweb.org/anthology/W/W16/W16-39.pdf#page=165)]
 
+## News
+
+**[Featured](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=4451) in the School of Computer Science for winning 3rd place in the COLING competition. 
+
 Here is my [CV]().
 </div>
