@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project
-permalink: project/proj_deepart/
+permalink: projects/proj_deepart/
 subtitle: Art
 ---
 
