@@ -13,7 +13,7 @@ permalink: /about/
 
 {::nomarkdown} 
 <figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/profile.jpg">
+    <img src="{{ site.baseurl }}/assets/img/me2.jpg">
 </figure>
 {:/}
  Everytime we describe a concept or communicate our ideas we use terms (i.e. words or phrases). Can we develop algorithms to automatically discover and learn representations of terms across domains (i.e. scientific literature, social media, newswires, etc)? For example, the terms "boozer", "alcoholic", "suffering from alcohol dependency" all point to the same concept. Furthermore, how do we represent larger structures of meaning (e.g. sentences as composition of terms)?
@@ -30,5 +30,4 @@ permalink: /about/
 
 - [Featured](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=4451) in the School of Computer Science for winning **3rd** place in the COLING competition.
 
-Here is my [CV]().
 </div>
