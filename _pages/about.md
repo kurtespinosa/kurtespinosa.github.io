@@ -13,7 +13,7 @@ permalink: /about/
 
 {::nomarkdown} 
 <figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/me2.jpg">
+    <img src="{{ site.baseurl }}/assets/img/profile.jpg">
 </figure>
 {:/}
  Everytime we describe a concept or communicate our ideas we use terms (i.e. words or phrases). Can we develop algorithms to automatically discover and learn representations of terms across domains (i.e. scientific literature, social media, newswires, etc)? For example, the terms "boozer", "alcoholic", "suffering from alcohol dependency" all point to the same concept. Furthermore, how do we represent larger structures of meaning (e.g. sentences as composition of terms)?
