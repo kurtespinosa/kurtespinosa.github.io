@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project
-permalink: research/proj_tweener/
+permalink: project/proj_tweener/
 subtitle: Visualisation
 ---
 

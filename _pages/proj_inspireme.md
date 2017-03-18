@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project
-permalink: research/proj_inspireme/
+permalink: project/proj_inspireme/
 subtitle: Recommender System
 ---
 

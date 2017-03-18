@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project
-permalink: research/proj_poetry/
+permalink: project/proj_poetry/
 subtitle: Art
 ---
 
