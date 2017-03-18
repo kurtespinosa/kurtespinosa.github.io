@@ -16,8 +16,9 @@ permalink: /about/
     <img src="{{ site.baseurl }}/assets/img/profile.jpg">
 </figure>
 {:/}
+My research interest lies at the intersection of machine learning and natural language processing. I am largely motivated by the challenge of how machines can learn to read and understand textual data. 
 
-What is a concept? How do we represent it? How can we teach the computers to learn concepts over time? These are some questions I have in my research.
+What is a concept? How do we represent it? How can we teach the computers to learn concepts over time? These are some specific questions I have in my research. This has many applications in knowledge discovery, question-answering systems, machine translation, sentiment analysis among many others and in as diverse application areas such as medicine, social media, disaster management, education, etc. 
 
 Here is my [CV]().
 
