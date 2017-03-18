@@ -8,7 +8,7 @@ permalink: /about/
 
 <div class="pretty-links">
 
-<div class="lead lead-about">My research interest lies at the intersection of machine learning and natural language processing. I am largely motivated by the challenge of how machines can learn to read and understand textual data.
+<div class="lead lead-about">My research interest lies at the intersection of machine learning and linguistics. I am largely motivated by the challenge of how machines can learn to read and understand textual data.
 </div>
 
 {::nomarkdown} 
@@ -16,7 +16,9 @@ permalink: /about/
     <img src="{{ site.baseurl }}/assets/img/profile.jpg">
 </figure>
 {:/}
- All the time we use terms (i.e. words or phrases) to illustrate concepts and communicate our ideas. How can we teach the computers to learn the meaning of these terms? Are there algorithms to learn the different terms of the same concept across domains? These are some of the questions I would like to answer in my research. Understanding this will have an impact in natural language understanding, summarisation, question-answering, etc.
+ Everytime we describe a concept or communicate our ideas we use terms (i.e. words or phrases). Can we develop algorithms to automatically discover and learn representations of terms across domains (i.e scientific literature, social media, newswires, etc)? How do we represent larger structures of meaning (i.e. sentences as composition of terms)?
+
+ These are the main questions I would like to answer in my research. This will have an impact in many natural language processing tasks such as summarisation, question-answering, recognizing entailment, etc.
 
 Here is my [CV]().
 
