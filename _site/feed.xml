@@ -7,6 +7,15 @@
     <atom:link href="http://kurtespinosa.comhttp://kurtespinosa.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Frontiers of Deep Learning and Reinforcement Learning</title>
+        <description>
+</description>
+        <pubDate>Wed, 12 Jul 2017 00:00:00 +0100</pubDate>
+        <link>http://kurtespinosa.com/2017/dlrlss/</link>
+        <guid isPermaLink="true">http://kurtespinosa.com/2017/dlrlss/</guid>
+      </item>
+    
+      <item>
         <title>What was the COLING for me?</title>
         <description>&lt;p&gt;It was a terribly good experience! Understanding sentences like that remains one of the challenges in Natural Language Processing (NLP) in general based on my impression after attending the Computational Linguistics (COLING) conference held at Osaka, Japan from Dec 10-16, 2016. In this post, I aim to summarise my learning experiences in COLING.&lt;/p&gt;
 
