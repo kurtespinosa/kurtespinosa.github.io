@@ -7,6 +7,15 @@
     <atom:link href="http://kurtespinosa.comhttp://kurtespinosa.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Letter to my friend</title>
+        <description>
+</description>
+        <pubDate>Thu, 10 Aug 2017 00:00:00 -0700</pubDate>
+        <link>http://kurtespinosa.com/2017/letter/</link>
+        <guid isPermaLink="true">http://kurtespinosa.com/2017/letter/</guid>
+      </item>
+    
+      <item>
         <title>Frontiers in Deep Learning and Reinforcement Learning</title>
         <description>&lt;p&gt;First of all, this post would not claim to exhaustively narrate everything discussed during the summer school. There are &lt;a href=&quot;https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/schedule/&quot;&gt;slides&lt;/a&gt; and &lt;a href=&quot;http://videolectures.net/site/search/?q=deep+learning+summer+school&quot;&gt;video lectures&lt;/a&gt; for that and I highly recommend that you go thru them. Rather, in this post I will just mention ideas that are either: 1) new to me, 2) old but on which I have gained new perspective and deeper understanding 3) plain interesting. Some of these are mentioned in the slides or during the talk. Lastly, I do not claim that I have understood all the topics presented and what I am writing here are based solely on my understanding. Please refer to the actual slides or video lectures for a detailed treatment of each subject.&lt;/p&gt;
 
@@ -43,7 +52,7 @@
 &lt;p&gt;To all the organisers of the summer school, I could not thank you more. I felt I was so lucky to be among the few admitted to attend it. The summer school has opened to me the vast horizon of research frontiers in this field.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 12 Jul 2017 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 12 Jul 2017 00:00:00 -0700</pubDate>
         <link>http://kurtespinosa.com/2017/dlrlss/</link>
         <guid isPermaLink="true">http://kurtespinosa.com/2017/dlrlss/</guid>
       </item>
@@ -138,7 +147,7 @@ In addition, I wonder also if the work of Barbara could be done for speech for t
 &lt;p&gt;Attending conferences indeed is very expensive but I think it is the most efficient way to get new ideas and to know the state-of-the-art in my field through the face-to-face interaction with the experts themselves in the field.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 17 Dec 2016 00:00:00 -0800</pubDate>
         <link>http://kurtespinosa.com/2016/coling/</link>
         <guid isPermaLink="true">http://kurtespinosa.com/2016/coling/</guid>
       </item>
@@ -171,7 +180,7 @@ In addition, I wonder also if the work of Barbara could be done for speech for t
 &lt;/ol&gt;
 
 </description>
-        <pubDate>Sat, 20 Aug 2016 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 20 Aug 2016 00:00:00 -0700</pubDate>
         <link>http://kurtespinosa.com/2016/kfold/</link>
         <guid isPermaLink="true">http://kurtespinosa.com/2016/kfold/</guid>
       </item>
