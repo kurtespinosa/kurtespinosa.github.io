@@ -3,16 +3,19 @@
   <channel>
     <title></title>
     <description></description>
-    <link>http://kurtespinosa.com</link>
-    <atom:link href="http://kurtespinosa.comhttp://kurtespinosa.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Letter to my friend</title>
-        <description>
+        <description>&lt;p&gt;I have been around for around three decades on this earth and I have learned some valuable lessons which this life may have to teach us. And if anything, I would like to share it with you since what does a friend do but wish for his friend’s happiness too. I hope that from these small experiences and learnings you would also see how similar really our aspirations are in this life and maybe these you would be able to help you decide wisely what better road to take.&lt;/p&gt;
+
+&lt;p&gt;I do not claim I have a full grasp of everything in this life but some things do make sense to me too invaluable not to share. First thing that is very clear to me is that everyone wants to be happy. All we do and our choices are guided by that inner principle. Take a moment to think about it. Everytime we make a choice, we think about it and everytime we think about something, we reflect if it will make us happy. Even at this point, it should be quite clear that making choices in this life requires some reasoning and then judgement. Hence, as a researcher would do it, it is very important to do a careful literature review to aid our reasoning process before we come up with the judgment. Maybe I am digressing too much from my main point but the point I’m driving at is that we need some background principles that would aid our reasoning and so that we can pass an informed judgment when we have to make choices in this life because what’s at stake is our happiness.&lt;/p&gt;
+
 </description>
         <pubDate>Thu, 10 Aug 2017 00:00:00 -0700</pubDate>
-        <link>http://kurtespinosa.com/2017/letter/</link>
-        <guid isPermaLink="true">http://kurtespinosa.com/2017/letter/</guid>
+        <link>http://localhost:4000/2017/letter/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/letter/</guid>
       </item>
     
       <item>
@@ -53,8 +56,8 @@
 
 </description>
         <pubDate>Wed, 12 Jul 2017 00:00:00 -0700</pubDate>
-        <link>http://kurtespinosa.com/2017/dlrlss/</link>
-        <guid isPermaLink="true">http://kurtespinosa.com/2017/dlrlss/</guid>
+        <link>http://localhost:4000/2017/dlrlss/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/dlrlss/</guid>
       </item>
     
       <item>
@@ -148,8 +151,8 @@ In addition, I wonder also if the work of Barbara could be done for speech for t
 
 </description>
         <pubDate>Sat, 17 Dec 2016 00:00:00 -0800</pubDate>
-        <link>http://kurtespinosa.com/2016/coling/</link>
-        <guid isPermaLink="true">http://kurtespinosa.com/2016/coling/</guid>
+        <link>http://localhost:4000/2016/coling/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/coling/</guid>
       </item>
     
       <item>
@@ -181,8 +184,8 @@ In addition, I wonder also if the work of Barbara could be done for speech for t
 
 </description>
         <pubDate>Sat, 20 Aug 2016 00:00:00 -0700</pubDate>
-        <link>http://kurtespinosa.com/2016/kfold/</link>
-        <guid isPermaLink="true">http://kurtespinosa.com/2016/kfold/</guid>
+        <link>http://localhost:4000/2016/kfold/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/kfold/</guid>
       </item>
     
   </channel>
