@@ -3,8 +3,38 @@
   <channel>
     <title></title>
     <description></description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://kurtespinosa.com</link>
+    <atom:link href="http://kurtespinosa.comhttp://kurtespinosa.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Artificial Intelligence - Can machines think?</title>
+        <description>&lt;p&gt;Why would we want a machine to learn and act rather than a human?&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var disqus_config = function () {
+this.page.url = &quot;http://kurtespinosa.com/2017/ai/&quot;; // &lt;--- use canonical URL
+this.page.identifier = &quot;/2017/ai&quot;;
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//kurtespinosa.disqus.com/embed.js'; // &lt;--- use Disqus shortname
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+
+&lt;noscript&gt;
+  &lt;p&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot; rel=&quot;nofollow&quot;&gt;comments powered by Disqus.&lt;/a&gt;&amp;lt;/noscript&amp;gt;&lt;/p&gt;
+
+&lt;/noscript&gt;
+</description>
+        <pubDate>Mon, 18 Sep 2017 00:00:00 +0100</pubDate>
+        <link>http://kurtespinosa.com/2017/ai/</link>
+        <guid isPermaLink="true">http://kurtespinosa.com/2017/ai/</guid>
+      </item>
     
       <item>
         <title>Letter to my friend</title>
@@ -12,10 +42,30 @@
 
 &lt;p&gt;I do not claim I have a full grasp of everything in this life but some things do make sense to me too invaluable not to share. First thing that is very clear to me is that everyone wants to be happy. All we do and our choices are guided by that inner principle. Take a moment to think about it. Everytime we make a choice, we think about it and everytime we think about something, we reflect if it will make us happy. Even at this point, it should be quite clear that making choices in this life requires some reasoning and then judgement. Hence, as a researcher would do it, it is very important to do a careful literature review to aid our reasoning process before we come up with the judgment. Maybe I am digressing too much from my main point but the point I’m driving at is that we need some background principles that would aid our reasoning and so that we can pass an informed judgment when we have to make choices in this life because what’s at stake is our happiness.&lt;/p&gt;
 
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var disqus_config = function () {
+this.page.url = &quot;http://kurtespinosa.com/2017/letter/&quot;; // &lt;--- use canonical URL
+this.page.identifier = &quot;/2017/letter&quot;;
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//kurtespinosa.disqus.com/embed.js'; // &lt;--- use Disqus shortname
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+
+&lt;noscript&gt;
+  &lt;p&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot; rel=&quot;nofollow&quot;&gt;comments powered by Disqus.&lt;/a&gt;&amp;lt;/noscript&amp;gt;&lt;/p&gt;
+
+&lt;/noscript&gt;
 </description>
-        <pubDate>Thu, 10 Aug 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2017/letter/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/letter/</guid>
+        <pubDate>Thu, 10 Aug 2017 00:00:00 +0100</pubDate>
+        <link>http://kurtespinosa.com/2017/letter/</link>
+        <guid isPermaLink="true">http://kurtespinosa.com/2017/letter/</guid>
       </item>
     
       <item>
@@ -54,10 +104,30 @@
 
 &lt;p&gt;To all the organisers of the summer school, I could not thank you more. I felt I was so lucky to be among the few admitted to attend it. The summer school has opened to me the vast horizon of research frontiers in this field.&lt;/p&gt;
 
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var disqus_config = function () {
+this.page.url = &quot;http://kurtespinosa.com/2017/dlrlss/&quot;; // &lt;--- use canonical URL
+this.page.identifier = &quot;/2017/dlrlss&quot;;
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//kurtespinosa.disqus.com/embed.js'; // &lt;--- use Disqus shortname
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+
+&lt;noscript&gt;
+  &lt;p&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot; rel=&quot;nofollow&quot;&gt;comments powered by Disqus.&lt;/a&gt;&amp;lt;/noscript&amp;gt;&lt;/p&gt;
+
+&lt;/noscript&gt;
 </description>
-        <pubDate>Wed, 12 Jul 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2017/dlrlss/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/dlrlss/</guid>
+        <pubDate>Wed, 12 Jul 2017 00:00:00 +0100</pubDate>
+        <link>http://kurtespinosa.com/2017/dlrlss/</link>
+        <guid isPermaLink="true">http://kurtespinosa.com/2017/dlrlss/</guid>
       </item>
     
       <item>
@@ -149,10 +219,30 @@ In addition, I wonder also if the work of Barbara could be done for speech for t
 
 &lt;p&gt;Attending conferences indeed is very expensive but I think it is the most efficient way to get new ideas and to know the state-of-the-art in my field through the face-to-face interaction with the experts themselves in the field.&lt;/p&gt;
 
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var disqus_config = function () {
+this.page.url = &quot;http://kurtespinosa.com/2016/coling/&quot;; // &lt;--- use canonical URL
+this.page.identifier = &quot;/2016/coling&quot;;
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//kurtespinosa.disqus.com/embed.js'; // &lt;--- use Disqus shortname
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+
+&lt;noscript&gt;
+  &lt;p&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot; rel=&quot;nofollow&quot;&gt;comments powered by Disqus.&lt;/a&gt;&amp;lt;/noscript&amp;gt;&lt;/p&gt;
+
+&lt;/noscript&gt;
 </description>
-        <pubDate>Sat, 17 Dec 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2016/coling/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/coling/</guid>
+        <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
+        <link>http://kurtespinosa.com/2016/coling/</link>
+        <guid isPermaLink="true">http://kurtespinosa.com/2016/coling/</guid>
       </item>
     
       <item>
@@ -182,10 +272,30 @@ In addition, I wonder also if the work of Barbara could be done for speech for t
   &lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/questions/2976452/whats-is-the-difference-between-train-validation-and-test-set-in-neural-networ&quot;&gt;https://stackoverflow.com/questions/2976452/whats-is-the-difference-between-train-validation-and-test-set-in-neural-networ&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var disqus_config = function () {
+this.page.url = &quot;http://kurtespinosa.com/2016/kfold/&quot;; // &lt;--- use canonical URL
+this.page.identifier = &quot;/2016/kfold&quot;;
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//kurtespinosa.disqus.com/embed.js'; // &lt;--- use Disqus shortname
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+
+&lt;noscript&gt;
+  &lt;p&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot; rel=&quot;nofollow&quot;&gt;comments powered by Disqus.&lt;/a&gt;&amp;lt;/noscript&amp;gt;&lt;/p&gt;
+
+&lt;/noscript&gt;
 </description>
-        <pubDate>Sat, 20 Aug 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2016/kfold/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/kfold/</guid>
+        <pubDate>Sat, 20 Aug 2016 00:00:00 +0100</pubDate>
+        <link>http://kurtespinosa.com/2016/kfold/</link>
+        <guid isPermaLink="true">http://kurtespinosa.com/2016/kfold/</guid>
       </item>
     
   </channel>
