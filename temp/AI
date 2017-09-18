@@ -1,0 +1,107 @@
+AI
+
+Why would we want a machine to learn and act rather than a human? 
+Attended a Deep Learning Summer School in Montreal last July.
+- In a paper published, judges are significantly more lenient after a food break. Describe the graph.
+- machine are logically stable and are not influence by some biases. 
+
+- If computers are able to converse in natural language and really understand what people are asking and give sensible answers it might really have a big impact on all of these people that currently don't benefit from the kind of technology that we do.
+Commentary from Yoshua Bengio, a computer scientist at University of Montreal.
+
+Some examples:
+- amazon go, no lines, no checkout. uses computer vision and other sensor technologies. mention about the success of speech recognition (android phones 2012) and computer vision (2014 MS coco 80k images ~98%). deep learning revolution. captioning an image, watching youtube video and question-answering on it. machine translation in many languages.
+- restaurant robot to take the menu
+
+All these AI revolution is made possible by the volume and speed of data available to us, the advances in computer hardware and in the algorithms. 
+
+But I wouldn't talk here about the techniques and methods of this because they are not for general discussion, rather, I propose to consider the question "Can machines think?" This was ask 77 years ago first by Alan Turing, known as the father of CS and AI, while he was at the Univ of Manchester. He published this paper in a journal the Philosophy of the Mind.
+
+So, can machines think? Turing starts in his paper. This should begin with the definition of the terms machine and think but he finds this attitude dangerous because he if the definitions are to be framed so as to reflect so far as possible the normal use of the words, it is difficult to escape the conclusion that the meaning of those words is to be sought in a statistical survey. Instead, he propose to replace the question by another which is closely related to it. The new form of the problem he proposed can be described in a game which he calls the imitation game. 
+
+1. the imitation game description and the new question. 
+the setup and example.
+how to evaluate in numbers? give the extreme 0 and 100%.
+in other words, the average interrogator will not have more than 70% chance of making the right identification after 5 mins of questioning.
+if it is mistaken for a human more than 30% of the time during a series of 5-minute keyboard conversations (June 2014 claim in reading university) based on posted conversations comparing siri and eugene, no doubt siri is even better than that. but siri is still actuall very dumb.
+
+drawing a line between the physical and intellectual capacities of man.
+Note: this was the basis of the imitation game movie recently which I haven't watched yet.
+
+2. best strategy would be to provide answers that naturally would be given by a man
+3. we are concerned not by the machines we have now but whether there are imaginable machines that would do well
+4. a machine such as a digital computer is a replication of a human computer who has a memory (store), will(executive) and intellect(control). 
+5. are there imaginable digital computers which would do well in the imitation game?
+6. Opinions opposed to this.
+1. theological objection (p12)
+	--thinking is a function of man's immortal soul and not to animals or machines
+	--arbitrary orthodox view such as the view in islam that women have no souls
+	--the argument implies a serious restriction of the omnipotence of God. it is admitted that there are certain things that he cannot do such as making one equal to two, but should we not believe that God has a freedom to confer a soul on an elephant if he sees fit?
+	--we are not usurping his power of creating souls any more than in procreation rather as instruments of his will providing mansions for the souls that he creates
+	--theological opinions found unsatisfactory in the past. galileo and copernican theory.
+2. 'heads in the sand' objection
+	--the consequences of machines thinking would be too dreadful. let us hope and believe that they cannot do so
+	-- likely to be quite strong among intellectual people who believes the superiority of Man over the rest of creation
+	-- i do not think that this argument is sufficiently substantial to require refutation
+3. mathematical objection
+	--limitations to the power of discrete state machines: Kurt Godel's theorem which shows that in any sufficiently powerful logical system, statements can be formulated which can neither be proved nor disproved within the system, unless possibly the system itself is inconsistent. For example you have a printer that prints statements that are true and does nothing if they are false. Suppose, you have the statement: "I cannot print twice "I cannot print twice"". If it prints it, then it is printing a false statement because it can print it. If it does not nothing, then the statement is true but it refused to print it, which it isn't supposed to do. It follows that there are true statements that will never be printed. Gödel shows that it is impossible to be completely truthful and completely universal; you can never say every true statement without saying some false ones, or, alternatively, you can never say only true things without being forced to withhold some true statements.
+	-- So short answer to the argument: yes it is established that there are limitations to the powers of any particular machine but it is only stated without any proof that no such limitations apply to the human intellect
+	-- there might be men cleverer than any given machine but then again there might be other machines cleverer again
+4. the argument from consciousness
+	-- Prof Jefferson's Lister oration for 1949 quotation p14
+	-- Turing claims this as a denial of the validity of the imitation game as a test
+	-- this is the solipsist view wherein the only way by which one could be sure that a machine thinks is to be the machine and to feel oneself thinking
+	-- Turing is sure that Prof would be willing to accept imitation game as the test
+	-- in practice, the game could be viva voce game to discover whether someone really understands something or has learnt it parrot fashion.
+	-- having emotions and feelings, it can describe emotions and it knows it has described it. conversation p15
+
+5. arguments from various disabilities
+	-- I grant that you can make machines do all the things you've mentioned but you will never be able to make one to do X. X such as have a sense of humour, being kind, fall in love, learn from experience, do something really new, enjoy strawberries and cream, make mistakes, etc
+	--no support are usually offered for these statements and he believes that they are mostly founded on the principle of scientific induction. these statements are based on current experiences and observations with computers
+	-- for example, the machine could be unmasked easily because of its deadly accuracy but the reply to this is simple.if they don't make mistakes, they can be deliberately programmed to introduce arithmetic mistakes in a manner that will confuse the interrogator
+	--he claims that diversity of behaviour in the machine can be ameliorated by increasing storage capacity
+6. lady lovelace objection
+	--lady lovelace is known to be the first computer programmer, she recognized that computers can also implement series of instructions/algorithm rather than just perform computations
+	--Quotation: "the analytical engine has no pretensions to originate anything. it can do whatever we know how to order it to perform." In other words, machines can do what we tell them to do. This statement was quoted by Hartree, who said that this statement does not say that machines will never learn for which Turing agrees.
+	-- similar to argument: "never do anything really new". This may be parried for a moment with the saw: 'there is nothing new under the sun' or who can be certain that the original work of someone is not simply the growth of a seed planted in him by teaching or the effect of well-known general principles? Like for example what philosophers or mathematicians do. they exposed the reality not invent them.
+	--another: "machines never take us by surprise". this carries a false assumption that once a fact is presented to a mind all consequences of that fact spring into mind simultaneously with it. this discredits all the efforts of  natural scientists when they try to work out consequences from data and general principles of whose discoveries we may be taken by surprise.
+
+skip the last three
+7. argument from continuity in the nervous system
+	-- this is not something that the interrogator will be able to take advantage of. Nervous system is a continuous state machine rather than the discrete state machine. there is no big difference between a PI value of different precision. 
+8. argument from informality of behaviour
+	-- we cannot be machines because such laws don't exist that details everything we needed to do?
+9. argument from extra-sensory perception
+	-- telepathy?
+
+7.learning machines
+	-- turing supports empirical methods to support this idea of thinking machines
+	-- brain has approximately 10^10 to 10^15 as storage capacity and turing thinks that the imitation game would not require more than 10^9 of this. Speed as well is not much a problem with the present technology.
+	-- the main problem is how to programme these machines to play the game
+	-- if the machines are to imitate an adult human mind, we are bound think of the process which has brought it to the its present state.
+		-- the initial state of mind
+		-- the education to which it has been subjected
+		-- other experience, not to be described as education, but which it has been subjected
+	-- a good starting point is simulate the child-brain hoping that there is so little mechanism in it that something like it can be easily programmed, he compares it to a notebook one buys from the stationers with lots of blank sheets.
+	-- then we apply evolutionary algorithms to the first child machine we create so we can get the best child machine thru artificial natural selection just like in evolution
+	-- we should not be concerned too much of the physical attributes of the child machine
+	-- we can then send the child machine to a school where it will learn thru reward-punishment-scheme from the teacher
+	-- what will be the child machine like? it can have the basic general principles or it could have a complete system of logical inference built-in. in the latter case, it would store definitions and propositions such as facts, conjectures, mathematicall proved-theorems, statements given by authority, imperatives. The inference engine need not be such as would satisfy the most exacting logicians, that means, it could also fall into fallacies.
+	This is what they did with Watson in the game jeopardy where they filled it with all knowledge from wikipedia and other data stores.
+	-- processes that are learnt do not produce a 100% certainty, otherwise, they could not be unlearnt
+	-- might be wise to include a random element in the learning machine as happens in evolution
+	-- lastly:
+		-- we may hope that machines will eventually compete with men in all purely intellectual fields. 
+		-- "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+
+Should we be worried of the machine age?
+1. worrying about the effect of AI is like worrying about overpopulation in mars
+- andrew ng, stanford prof, chief scientist in google brain and baidu, founder of coursera
+2. stephen hawking said the devt of full AI could spell the end of the human race.
+
+well, technology is neutral. Both of their views are true.
+
+What we should be worried?
+- need for policies for job transition just like during the industrial revolution
+- I read the US just released their white paper on this.
+- stats of farmers and unemployment
+- normal curve and laundry machine
