@@ -24,7 +24,7 @@ permalink: /about/
 </div>
 ---
 ## News
-- One paper accepted in [ACL Student Research Workshop](https://sites.google.com/site/aclsrw2017/) in Vancouver, Canada on July 30 - August 4, 2017 [paper(http://www.aclweb.org/anthology/P17-3021)]  
+- One paper accepted in [ACL Student Research Workshop](https://sites.google.com/site/aclsrw2017/) in Vancouver, Canada on July 30 - August 4, 2017 [paper](http://www.aclweb.org/anthology/P17-3021)
 - One paper accepted in [First International Workshop on Symbolic-Neural Learning (SNL-2017)](http://www.ttic.edu/SNL2017/), Nagoya, Japan on July 7-8, 2017
 - Admitted to the [Deep Learning and Reinforcement Summer School](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/) in Yoshua Bengio's Lab (MILA), Montreal, Canada on June 25 - July 5, 2017 (19.91% Acceptance Rate)
 - [Featured](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=4451) in the School of Computer Science for winning **3rd** place in the COLING competition.
