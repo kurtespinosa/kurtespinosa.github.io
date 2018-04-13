@@ -31,14 +31,7 @@ permalink: /about/
 
 
 ## Activities
-**2018 January 5 - March 24. Internship at Artificial Intelligence Research Center, Tokyo**
-- Worked on Event Structure Classification (ESC) system under the supervision of Prof. Makoto Miwa. 
-
-**2017 July 30 - August 4. ACL 2017 @ Vancouver**
-- Presented my student paper. Here's the [list of student papers accepted](https://sites.google.com/site/aclsrw2017/accepted-papers).
-
-**2017 June 25 - July 5. Deep Learning and Reinforcement Summer School**
-- Attended the summer school and I learned quite a lot. Here's my [personal write-up](http://kurtespinosa.com/2017/dlrlss/) about it.
-
-**2016 September: Joined the COLING Twitter NER Shared-Task - won 3rd place!**
-- The [task](http://noisy-text.github.io/2016/index.html) consists of identification of named-entities in a tweet and classification of its entity type (e.g. location, person, organisation, etc). [[paper](http://www.aclweb.org/anthology/W/W16/W16-39.pdf#page=165)]
+**2018 January 5 - March 24. Internship at Artificial Intelligence Research Center, Tokyo** Worked on Event Structure Classification (ESC) system under the supervision of Prof. Makoto Miwa. 
+**2017 July 30 - August 4. ACL 2017 @ Vancouver** Presented my student paper. Here's the [list of student papers accepted](https://sites.google.com/site/aclsrw2017/accepted-papers).
+**2017 June 25 - July 5. Deep Learning and Reinforcement Summer School** Attended the summer school and I learned quite a lot. Here's my [personal write-up](http://kurtespinosa.com/2017/dlrlss/) about it.
+**2016 September: Joined the COLING Twitter NER Shared-Task - won 3rd place!** The [task](http://noisy-text.github.io/2016/index.html) consists of identification of named-entities in a tweet and classification of its entity type (e.g. location, person, organisation, etc). [[paper](http://www.aclweb.org/anthology/W/W16/W16-39.pdf#page=165)]
