@@ -43,40 +43,6 @@ s.setAttribute('data-timestamp', +new Date());
       </item>
     
       <item>
-        <title>Letter to my friend</title>
-        <description>&lt;p&gt;I have been around for around three decades on this earth and I have learned some valuable lessons which this life may have to teach us. And if anything, I would like to share it with you since what does a friend do but wish for his friend’s happiness too. I hope that from these small experiences and learnings you would also see how similar really our aspirations are in this life and maybe these you would be able to help you decide wisely what better road to take.&lt;/p&gt;
-
-&lt;p&gt;I do not claim I have a full grasp of everything in this life but some things do make sense to me too invaluable not to share. First thing that is very clear to me is that everyone wants to be happy. All we do and our choices are guided by that inner principle. Take a moment to think about it. Everytime we make a choice, we think about it and everytime we think about something, we reflect if it will make us happy. Even at this point, it should be quite clear that making choices in this life requires some reasoning and then judgement. Hence, as a researcher would do it, it is very important to do a careful literature review to aid our reasoning process before we come up with the judgment. Maybe I am digressing too much from my main point but the point I’m driving at is that we need some background principles that would aid our reasoning and so that we can pass an informed judgment when we have to make choices in this life because what’s at stake is our happiness.&lt;/p&gt;
-
-&lt;p&gt;[To be continued..]&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-var disqus_config = function () {
-this.page.url = &quot;http://kurtespinosa.com/2017/letter/&quot;; // &lt;--- use canonical URL
-this.page.identifier = &quot;/2017/letter&quot;;
-};
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-
-s.src = '//kurtespinosa.disqus.com/embed.js'; // &lt;--- use Disqus shortname
-
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-
-&lt;noscript&gt;
-  &lt;p&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot; rel=&quot;nofollow&quot;&gt;comments powered by Disqus.&lt;/a&gt;&amp;lt;/noscript&amp;gt;&lt;/p&gt;
-
-&lt;/noscript&gt;
-</description>
-        <pubDate>Thu, 10 Aug 2017 00:00:00 +0100</pubDate>
-        <link>http://kurtespinosa.com/2017/letter/</link>
-        <guid isPermaLink="true">http://kurtespinosa.com/2017/letter/</guid>
-      </item>
-    
-      <item>
         <title>Frontiers in Deep Learning and Reinforcement Learning</title>
         <description>&lt;p&gt;First of all, this post would not claim to exhaustively narrate everything discussed during the summer school. There are &lt;a href=&quot;https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/schedule/&quot;&gt;slides&lt;/a&gt; and &lt;a href=&quot;http://videolectures.net/site/search/?q=deep+learning+summer+school&quot;&gt;video lectures&lt;/a&gt; for that and I highly recommend that you go thru them. Rather, in this post I will just mention ideas that are either: 1) new to me, 2) old but on which I have gained new perspective and deeper understanding 3) plain interesting. Some of these are mentioned in the slides or during the talk. Lastly, I do not claim that I have understood all the topics presented and what I am writing here are based solely on my understanding. Please refer to the actual slides or video lectures for a detailed treatment of each subject.&lt;/p&gt;
 
