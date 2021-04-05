@@ -1,0 +1,6 @@
+how to update website
+- make changes
+- run jekyll build
+- run jekyll serve
+- check changes in localsite
+- push changes to remote
